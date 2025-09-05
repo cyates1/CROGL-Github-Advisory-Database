@@ -55,7 +55,7 @@ Edit the script and replace the TOKEN variable at the top with your own GitHub P
 
 Then simply run:
 
-python script.py
+python advisory_fetcher.py
 
 When complete, it will print:
 
